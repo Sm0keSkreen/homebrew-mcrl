@@ -28,7 +28,7 @@ class Mcrl < Formula
 
       2) Want the Realms/telemetry/profanity extras? Writes config.json right next to
          this jar, no separate download or install directory:
-           curl -fsSL https://github.com/Sm0keSkreen/mcrl/releases/latest/download/install.sh \\
+           curl -fsSL https://github.com/Sm0keSkreen/mcrl/releases/latest/download/Mcrl.sh \\
              | bash -s -- --configure-only "#{opt_libexec}"
 
       Close every open Minecraft launcher window and reopen afterward.
