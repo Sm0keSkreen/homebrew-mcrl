@@ -1,8 +1,8 @@
 class Mcrl < Formula
   desc "Lift Minecraft's account chat restriction across every loader/version"
   homepage "https://github.com/Sm0keSkreen/mcrl"
-  url "https://github.com/Sm0keSkreen/mcrl/releases/download/v1.3.0/mcrl.jar"
-  sha256 "5aef45822d86b2adf8ccfae1e01cb780bc22778e22d37b46a42a005f878ad9ad"
+  url "https://github.com/Sm0keSkreen/mcrl/releases/download/v1.3.3/mcrl.jar"
+  sha256 "8386834dc7cdd27f97ceb893865fb5f1626a4d2c4da74b80ff4452dfdf3e1c20"
   license "MIT"
 
   depends_on "openjdk" => :test
